@@ -1,0 +1,99 @@
+{
+  "basics": {
+    "name": "Carissa Hicks",
+    "label": "Data Analyst",
+    "picture": "https://github.com/carissa406.png",
+    "email": "hicks.carissa@gmail.com",
+    "phone": "253-273-3480",
+    "website": "https://carissa406.github.io",
+    "summary": "I am a recent Master of Science in Data Analytics graduate from the University of Illinois - Springfield.",
+    "location": { "address": "", "postalCode": "", "city": "Milwaukee", "countryCode": "USA", "region": "Wisconsin" },
+    "profiles": [
+      { "network": "github", "username": "carissa406", "url": "http://github.com/carissa406" },
+      { "network": "linkedin", "username": "hickscarissa", "url": "http://linkedin.com/in/hickscarissa" }
+    ]
+  },
+  "interests": [
+    { "name": "Machine Learning" },
+    { "name": "Natural Language Processing" },
+    { "name": "Linguistics" },
+    { "name": "Deep Learning" },
+    { "name": "Data Visualization" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "R", "Python", "Java" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Windows"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Illinois, Springfield, IL",
+      "area": "Data Analytics, 2022",
+      "studyType": "M.S.",
+      "startDate": "2020-08-01",
+      "endDate": "2022-12-10",
+      "courses": ["Discrete Structures", "Computer Programming Concepts I and II", "Advanced Statistical Methods", "Intro to Statistical Computation", "Data Structures and Algorithms", "Intro to Database Systems", "Matrix Analysis/Optimization", "Intro to Machine Learning", "Data Mining", "Big Data Analytics", "Data Visualization", "Deep Learning"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "ECM-GF Venture Group",
+      "position": "Data Analyst",
+      "website": "https://ecm-ventures.com/",
+      "startDate": "2021-04-15",
+      "endDate": "Present",
+      "summary": "Play a vital role in understanding customer interactions and sales performance.",
+      "highlights": [
+        "Analyze video footage and accurately record data in Excel.",
+        "Perform quality checks on recorded data to ensure consistency and reliability. Identify and resolve any discrepancies or data anomalies."
+      ]
+    },
+    #add another work here
+  ],
+  "volunteer": [
+    {
+      "organization": "MultiCare Health System",
+      "website": "https://www.multicare.org/location/multicare-sleep-medicine-center-puyallup/",
+      "position": "Administrative Assistant",
+      "startDate": "2018-07-01",
+      "endDate": "2018-12-31",
+      "summary": "Direct assistant to the Director",
+      "highlights": [
+        "Data entry of patient satisfaction surveys and financial revenue",
+        "Maintain custom data collection and storage infrastructure"
+      ]
+    },
+    {
+      "organization": "Crisis Text Line",
+      "website": "https://www.crisistextline.org/",
+      "position": "Crisis Counselor",
+      "startDate": "2018-03-01",
+      "endDate": "2019-06-30",
+      "summary": "",
+      "highlights": [
+        "Collaborate with supervisors and co-counselors to determine the best resources and help for texters",
+        "Ability to multitask by handling multiple conversations"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "title": "AWS Certified Cloud Practitioner",
+      "date": "2023-2026",
+      "awarder": "Amazon Web Services (AWS)",
+      "summary": "AWS Certified Cloud Practitioner with a strong understanding of cloud computing fundamentals, AWS services, and cost-effective cloud management. Committed to implementing secure and scalable cloud solutions while staying up-to-date with AWS innovations to drive project success."
+    },
+   #another award here
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
